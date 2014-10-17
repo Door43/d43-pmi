@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmi:home|Door43 (pmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmi|d43-pmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmi/archive/master.zip|d43-pmi.zip]]
+
+**Recent Changes**
+{{changes>ns = pmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmi|Ethnologue data]]
+
